@@ -102,6 +102,7 @@ permissions:
   - 'cost_analysis.ExchangeRate.list'
   - 'cost_analysis.Cost.get'
   - 'cost_analysis.Cost.list'
+  - 'cost_analysis.Cost.analyze'
   - 'cost_analysis.Cost.stat'
   - 'cost_analysis.DataSourceRule.get'
   - 'cost_analysis.DataSourceRule.list'
