@@ -118,4 +118,9 @@ permissions:
   - 'cost_analysis.JobTask.get'
   - 'cost_analysis.JobTask.list'
   - 'cost_analysis.JobTask.stat'
+  - 'cost_analysis.PublicDashboard.get'
+  - 'cost_analysis.PublicDashboard.list'
+  - 'cost_analysis.PublicDashboard.stat'
+  - 'cost_analysis.UserDashboard.*'
+  - 'cost_analysis.CustomWidget.*'
 
