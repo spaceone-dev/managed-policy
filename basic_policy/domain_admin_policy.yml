@@ -76,6 +76,8 @@ permissions:
   - 'notification.ProjectChannel.*'
   - 'notification.UserChannel.*'
   - 'notification.Notification.*'
+  - 'notification.Quota.*'
+  - 'notification.NotificationUsage.*'
   - 'cost_analysis.PublicDashboard.*'
   - 'cost_analysis.UserDashboard.*'
   - 'cost_analysis.CustomWidget.*'
